@@ -3,7 +3,7 @@ Soha Glal and Ashraf Khalil
 Abu Dhabi University
 suha.glal@gmail.com, ashraf.khalil@adu.ac.ae
 
-<b>1.	Introduction</b>
+1.	Introduction
 With the ever increasing number of cars on city roads, traffic congestion has become a significant and constant problem in urban areas around the world. Traffic reports have become an integral part of news reports. Many cities around the world are dedicating TV and radio channels to report the traffic conditions continuously. These channels often depend on conventional methods to collect information about traffic conditions such as mounted video cameras, inductive loop detection, license plate readers, police and witness reports, and traffic airplanes. These methods are very costly to use and maintain and are not scalable, thus they are usually limited to heavily-used stretches of highways. Moreover, even live radio reports tend to focus only on specific locations. Drivers cannot go online to check this information on demand and get customized directions that avoid congested streets. 
 These days most high-end GPS devices and online maps, such as Google and Yahoo! maps, provide the user with some kind of traffic data and enable the user to plan routes with the least amount of traffic. However, such traffic data is based on historical reports rather than real-time information and thus is useless in the case of sudden or recent changes in road conditions such as accidents, road repair, or newly constructed roads.
 <b>2.	System Description </b>
