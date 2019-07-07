@@ -1,7 +1,9 @@
 # Using Mobile Phone GPS for Real-time, Collaborative Traffic Monitoring 
 
 Soha Glal and Ashraf Khalil
+
 suha.glal@gmail.com,ashraf.khalil@adu.ac.ae
+
 Abu Dhabi University
 
 This project was under the supervison of Dr. Ashraf Khalil
