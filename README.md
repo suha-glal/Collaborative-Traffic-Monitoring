@@ -4,7 +4,7 @@ Soha Glal and Ashraf Khalil
 
 Abu Dhabi University
 
-suha.glal@gmail.com, ashraf.khalil@adu.ac.ae
+This project was under the supervison of Dr. Ashraf Khalil,ashraf.khalil@adu.ac.ae
 
 <b>1.	Introduction</b>
 
